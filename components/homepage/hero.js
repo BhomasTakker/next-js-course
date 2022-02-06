@@ -14,7 +14,7 @@ const Hero = () => {
         />
       </div>
       <h1>Hallo!</h1>
-      <p>I do stuff!</p>
+      <p>I do stuff - and this is a vercel demo blog</p>
     </section>
   );
 };
