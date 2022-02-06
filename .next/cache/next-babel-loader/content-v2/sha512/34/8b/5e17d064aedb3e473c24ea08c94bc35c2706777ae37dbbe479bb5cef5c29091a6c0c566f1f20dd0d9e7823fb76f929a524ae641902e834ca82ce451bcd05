@@ -1,0 +1,1 @@
+{"ast":null,"code":"const Logo = () => {};\n\nexport default Logo;","map":{"version":3,"sources":["/Users/thomas.bakker/Desktop/Udemy/next-js/nextjs-project/components/layout/logo.js"],"names":["Logo"],"mappings":"AAAA,MAAMA,IAAI,GAAG,MAAM,CAAE,CAArB;;AAEA,eAAeA,IAAf","sourcesContent":["const Logo = () => {};\n\nexport default Logo;\n"]},"metadata":{},"sourceType":"module"}
